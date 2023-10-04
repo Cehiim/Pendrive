@@ -1,1 +1,3 @@
 # Pendrive
+Dado uma lista de arquivos o programa encontra uma combinação de arquivos, de forma que seja possível gravar todos os arquivos nos pendrives, usando dois pendrives. Os arquivos que serão gravados têm tamanhos em Gigabytes (GB).
+A primeira linha tem um inteiro N que indica a quantidade de testes no arquivo, em seguida vem os testes, para cada teste temos um número inteiro L que indica o tamanho total em Gibabytes (GB) dos dois pendrives, lembrado os dois pendrives (A e B) tem o mesmo tamanho, e um segundo inteiro T ( T ≤ 50 ) que indica a quantidade de arquivos para ser avaliado nesse teste. Em seguida é informado os tamanhos dos arquivos S (S > 0) em Gigabytes (GB). Considere que dois arquivos em um conjunto de teste não terão o mesmo tamanho.
